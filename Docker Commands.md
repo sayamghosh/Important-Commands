@@ -151,6 +151,7 @@ docker-compose down
 ```
 
 ---
+```bash
 docker exec -it <container_id_or_name> bash
 
 ```
